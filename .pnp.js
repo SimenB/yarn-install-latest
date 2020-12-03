@@ -37,7 +37,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {
           "packageLocation": "./",
           "packageDependencies": [
-            ["husky", "npm:4.3.0"]
+            ["husky", "npm:4.3.1"]
           ],
           "linkType": "SOFT",
         }]
@@ -253,10 +253,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["husky", [
-        ["npm:4.3.0", {
-          "packageLocation": "./.yarn/unplugged/husky-npm-4.3.0-b6c2d49d0e/node_modules/husky/",
+        ["npm:4.3.1", {
+          "packageLocation": "./.yarn/unplugged/husky-npm-4.3.1-f645516e98/node_modules/husky/",
           "packageDependencies": [
-            ["husky", "npm:4.3.0"],
+            ["husky", "npm:4.3.1"],
             ["chalk", "npm:4.1.0"],
             ["ci-info", "npm:2.0.0"],
             ["compare-versions", "npm:3.6.0"],
@@ -504,7 +504,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["yarn-test", "workspace:."],
-            ["husky", "npm:4.3.0"]
+            ["husky", "npm:4.3.1"]
           ],
           "linkType": "SOFT",
         }]
